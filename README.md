@@ -175,7 +175,7 @@ $ irb
 
 This gives you a prompt where you can enter Ruby code. Try entering in
 `puts "Hello IRB"`:
-
+fir
 ```console
 2.7.3 :001 > puts "Hello IRB"
 Hello IRB
